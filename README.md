@@ -17,5 +17,6 @@ Full Stack Developer | Python Developer | AI Enthusiast 🚀
 ## 🧠 Tech Stack
 
 MERN Stack 
+
 MongoDB  Express JS  React JS  Node JS
 
