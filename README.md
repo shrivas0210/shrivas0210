@@ -2,7 +2,7 @@
 
 Full Stack Developer | Python Developer | AI Enthusiast 🚀
 
-🚀 About Me
+## 🚀 About Me
 
 🔭 Currently building scalable backend systems using Node.js & Python
 
@@ -16,4 +16,6 @@ Full Stack Developer | Python Developer | AI Enthusiast 🚀
 
 ## 🧠 Tech Stack
 
+MERN Stack 
+MongoDB  Express JS  React JS  Node JS
 
