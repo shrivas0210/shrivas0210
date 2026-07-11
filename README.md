@@ -13,3 +13,7 @@ Full Stack Developer | Python Developer | AI Enthusiast 🚀
 💬 Ask me about Python, JavaScript, Node.js, React, APIs, Databases
 
 📫 Reach me at: sanjayshrivas02100@gmail.com
+
+## 🧠 Tech Stack
+
+
